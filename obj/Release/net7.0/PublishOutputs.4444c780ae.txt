@@ -1,0 +1,12 @@
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\BreakPractice\Level 2\studentInfoHubAPI\bin\Release\net7.0\publish\studentInfoHubAPI.exe
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\BreakPractice\Level 2\studentInfoHubAPI\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\BreakPractice\Level 2\studentInfoHubAPI\bin\Release\net7.0\publish\appsettings.json
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\BreakPractice\Level 2\studentInfoHubAPI\bin\Release\net7.0\publish\studentInfoHubAPI.dll
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\BreakPractice\Level 2\studentInfoHubAPI\bin\Release\net7.0\publish\studentInfoHubAPI.deps.json
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\BreakPractice\Level 2\studentInfoHubAPI\bin\Release\net7.0\publish\studentInfoHubAPI.runtimeconfig.json
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\BreakPractice\Level 2\studentInfoHubAPI\bin\Release\net7.0\publish\studentInfoHubAPI.pdb
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\BreakPractice\Level 2\studentInfoHubAPI\bin\Release\net7.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\BreakPractice\Level 2\studentInfoHubAPI\bin\Release\net7.0\publish\Microsoft.OpenApi.dll
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\BreakPractice\Level 2\studentInfoHubAPI\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\BreakPractice\Level 2\studentInfoHubAPI\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jaykh\OneDrive\Desktop\CodeStack Academy\BreakPractice\Level 2\studentInfoHubAPI\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
