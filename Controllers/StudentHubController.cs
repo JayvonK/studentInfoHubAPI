@@ -38,7 +38,7 @@ public class StudentHubController : ControllerBase
         return _studentService.AddStudent(studentName, studentGrade);
     }
 
-    [HttpGet]
+    [HttpPut]
     [Route("UpdateStudent/StudentName/{studentName}/NewName/{newName}/NewGrade/{newGrade}")]
     public List<Student> UpdateStudent(string studentName, string newName, string newGrade) {
         return _studentService.UpdateStudent(studentName, newName, newGrade);
