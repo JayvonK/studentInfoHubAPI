@@ -16,6 +16,11 @@ public class StudentService : IStudentService
 
     public List<Student> DeleteStudent(string studentName)
     {
+        for(int i = 0; i < StudentsList.Count; i++){
+            if(StudentsList[i].StudentName == studentName){
+                StudentsList.Remove(StudentsList[i]);
+            }
+        }
         return StudentsList;
     }
 
@@ -26,11 +31,23 @@ public class StudentService : IStudentService
 
     public Student SearchStudent(string studentName)
     {
-        throw new NotImplementedException();
+        Student noStudent = new();
+        for(int i = 0; i < StudentsList.Count; i++){
+            if(StudentsList[i].StudentName == studentName){
+                return StudentsList[i];
+            }
+        }
+        return noStudent ;
     }
 
     public List<Student> UpdateStudent(string studentName, string newName, string newGrade)
     {
+        for(int i = 0; i < StudentsList.Count; i++){
+            if(StudentsList[i].StudentName == studentName){
+                StudentsList[i].StudentName = newName;
+                StudentsList[i].StudentName = newGrade;
+            }
+        }
         return StudentsList;
     }
 }
